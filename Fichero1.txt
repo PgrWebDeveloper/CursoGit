@@ -1,3 +1,6 @@
 Este es el fichero 1
 Fastforward
 Fastforward2
+Caracteristica 3
+Caracteristica 3-2
+Hotfix2
